@@ -16308,6 +16308,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/sobomighie/Documents/repos/LafargeTimesheet/Views/TimeSheet/TimeSheet.cshtml",
+      "TargetPath": "Views\\TimeSheet\\TimeSheet.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/sobomighie/Documents/repos/LafargeTimesheet/Views/Home/Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
